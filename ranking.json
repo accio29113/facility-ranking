@@ -2,7 +2,7 @@
   "categories": [
     {
       "id": "a_type",
-      "label": "A型就労継続支援事業所",
+      "label": "就労継続支援A型事業所",
       "items": [
         {
           "rank": 1,
@@ -14,28 +14,29 @@
     },
     {
       "id": "b_type",
-      "label": "B型就労継続支援事業所",
+      "label": "就労継続支援B型事業所",
       "items": []
     },
     {
       "id": "transition",
-      "label": "B型就労移行支援事業所",
+      "label": "就労移行支援事業所",
       "items": []
     },
     {
       "id": "after_school",
-      "label": "放課後等デイサービス事業所",
+      "label": "放課後等デイサービス",
       "items": []
     },
     {
       "id": "child_development",
-      "label": "児童発達支援事業所",
+      "label": "児童発達支援",
       "items": []
     },
     {
       "id": "long_term_company",
-      "label": "障がい者が長続きする会社",
+      "label": "障がい者が長く働きやすい一般企業",
       "items": []
     }
   ]
 }
+
