@@ -29,6 +29,7 @@
       "id": "admission-facility",
       "label": "入所施設",
       "items": []
+    },
     {
       "id": "long_term_company",
       "label": "障がい者がながく働きやすい一般企業",
@@ -36,4 +37,5 @@
     }
   ]
 }
+
 
