@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "id": "a_type",
+      "label": "A型就労継続支援事業所",
+      "items": [
+        {
+          "rank": 1,
+          "name": "サンプルA型事業所",
+          "reason": "スタッフの理解が深く、配慮が手厚い。",
+          "url": "https://example.com/a1"
+        }
+      ]
+    },
+    {
+      "id": "b_type",
+      "label": "B型就労継続支援事業所",
+      "items": []
+    },
+    {
+      "id": "transition",
+      "label": "B型就労移行支援事業所",
+      "items": []
+    },
+    {
+      "id": "after_school",
+      "label": "放課後等デイサービス事業所",
+      "items": []
+    },
+    {
+      "id": "child_development",
+      "label": "児童発達支援事業所",
+      "items": []
+    },
+    {
+      "id": "long_term_company",
+      "label": "障がい者が長続きする会社",
+      "items": []
+    }
+  ]
+}
