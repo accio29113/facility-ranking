@@ -2,24 +2,17 @@
   "categories": [
     {
       "id": "a_type",
-      "label": "就労継続支援A型事業所",
-      "items": [
-        {
-          "rank": 1,
-          "name": "サンプルA型事業所",
-          "reason": "スタッフの理解が深く、配慮が手厚い。",
-          "url": "https://example.com/a1"
-        }
-      ]
+      "label": "就労継続支援A型",
+      "items": []
     },
     {
       "id": "b_type",
-      "label": "就労継続支援B型事業所",
+      "label": "就労継続支援B型",
       "items": []
     },
     {
       "id": "transition",
-      "label": "就労移行支援事業所",
+      "label": "就労移行支援",
       "items": []
     },
     {
@@ -34,10 +27,8 @@
     },
     {
       "id": "long_term_company",
-      "label": "障がい者が長く働きやすい一般企業",
+      "label": "障がい者がながく働きやすい一般企業",
       "items": []
     }
   ]
 }
-
-
