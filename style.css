@@ -103,3 +103,24 @@ main {
   font-size: 0.85rem;
   color: #777;
 }
+.about-site {
+  background: #fff;
+  padding: 1.5rem;
+  margin-top: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.about-site h2 {
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+  color: #444;
+}
+
+.about-site p {
+  line-height: 1.7;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  color: #555;
+}
+
